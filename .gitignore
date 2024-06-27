@@ -1156,3 +1156,6 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.c
 csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
 Markov_Aufgabe.md
 Übersicht.md
+Markov-Chain_example.svg
+sim.py
+train.py

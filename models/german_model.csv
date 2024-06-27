@@ -1,2 +1,0 @@
-,healthy_to_recovered,healthy_to_deceased,infected_to_healthy,recovered_to_healthy,recovered_to_infected,recovered_to_recovered,recovered_to_deceased,deceased_to_healthy,deceased_to_infected,deceased_to_recovered,deceased_to_deceased,healthy_to_healthy,healthy_to_infected,infected_to_infected,infected_to_recovered,infected_to_deceased
-0,0,0,0,1,0,0,0,0,0,0,1,0.9999178246740765,8.217532592347254e-05,0.9238448415530256,0.06732067873859905,0.008834479708375365
